@@ -1,12 +1,10 @@
 #include<stdio.h>
 int main() {
-    int a = 10; // Variable declaration and initialization
-    float b = 5.5; // Variable declaration and initialization
-    char c = 'A'; // Variable declaration and initialization
+    
+    int a; // variable declaration 
+    a = 6; // variable initialization 
 
-    printf("Integer: %d\n", a);
-    printf("Float: %.2f\n", b);
-    printf("Character: %c\n", c);
+    printf("The output of this program is %d\n", a);
 
     return 0;
 }
