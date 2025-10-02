@@ -1,0 +1,7 @@
+{
+    // ...existing code...
+    "code-runner.executorMap": {
+        "c": "gcc $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt"
+    }
+    // ...existing code...
+}
