@@ -11,4 +11,4 @@ int main()
     printf("\nthe value of a is %d and the value of b is %d", a, b);
     printf("\nthe value of c is %d and the value of d is %d", c, d);
     return 0;
-}
+} 
