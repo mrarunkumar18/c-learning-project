@@ -1,85 +1,66 @@
-# 🚀 C-Learning-Project
+# C-Learning-Project 🚀
 
-A hands-on documentation of my journey learning the **C programming language** as a **1st-year BCA (Bachelor of Computer Applications)** student.
-C is the foundation of modern programming — the language that teaches you how computers *really think*. This repository is my personal coding lab where I’m turning theory into practice, one module at a time.
+This repository documents my hands-on journey learning the **C programming language** as a 1st-year BCA (Bachelor of Computer Applications) student. C is a foundational language for computer science, and this project serves as my practical lab to master its core concepts, from basic data types to advanced memory management.
 
----
+## About This Repository
 
-## 📘 About This Repository
+Each folder and file here corresponds to a module, lesson, or project I have completed. The goal is to apply theoretical knowledge immediately through coding to build a solid foundation in systems programming. I am actively managing this repository using Git and GitHub.
 
-Each folder and file in this repo represents a specific **lesson**, **module**, or **mini project** I’ve completed during my C learning journey.
-The idea is simple: *learn by doing.* Every topic I study is followed by a coding experiment to make concepts stick.
+## Current Progress & Modules Covered ✅
 
----
+I am currently progressing through the fundamentals of C, focusing on the essential building blocks that enable logic and data handling.
 
-## ✅ Current Progress
+| Module | Key Concepts Explored | Status |
+| :--- | :--- | :--- |
+| **01. Variables & Data Types** | `int`, `float`, `double`, `char`, Type Casting, Constants (`const`). | Completed |
+| **02. Operators** | Arithmetic, Relational, Logical, Bitwise, Increment/Decrement Operators. | Completed |
+| **03. I/O & Program Structure** | **`printf`/`scanf`** (User Input/Output), **Comments** (for clean code), **`sizeof`** operator, and **Escape Sequences**. | Completed |
 
-I’m currently exploring the **fundamentals** of C and building a strong base for systems programming and logic building.
+### Featured Projects
 
-| Module                 | Key Concepts Explored                                                                |    Status   |
-| :--------------------- | :----------------------------------------------------------------------------------- | :---------: |
-| **01. Fundamentals**   | Variables (`int`, `float`, `char`), Data Types, Type Casting, Constants (`const`).   | ✅ Completed |
-| **02. Operators**      | Arithmetic, Relational, Logical, Bitwise, Increment/Decrement Operators.             | ✅ Completed |
-| **03. Core Utilities** | `printf()` / `scanf()` I/O functions, Comments, `sizeof` operator, Escape Sequences. | ✅ Completed |
+* **Grocery Store Project I & II:** Practical exercises simulating inventory management, pricing, and updating values using variables, constants, and operators.
 
----
+## Getting Started (How to Run the Code)
 
-## 🧠 Featured Mini Projects
+You need a C compiler (like GCC) installed on your system to run the code in this repository.
 
-* **Grocery Store Project I & II**
-  Simulated real-world store management by coding inventory, pricing, and value updates using C fundamentals like variables, constants, and operators.
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/mrarunkumar18/c-learning-project.git](https://github.com/mrarunkumar18/c-learning-project.git)
+    ```
 
----
+2.  **Navigate to the Directory:**
+    ```bash
+    cd c-learning-project
+    ```
 
-## ⚙️ How to Run the Code
+3.  **Compile a Source File (Example):**
+    Use the GCC compiler to compile any `.c` file.
+    ```bash
+    gcc your_file_name.c -o output_name
+    ```
 
-You’ll need a **C compiler** (like GCC) installed on your system.
+4.  **Execute the Program:**
+    ```bash
+    ./output_name
+    ```
 
-1. **Clone the repository:**
+## My Roadmap (What's Next?) 🎯
 
-   ```bash
-   git clone https://github.com/mrarunkumar18/c-learning-project.git
-   ```
+Following my learning roadmap, the next major topics I will be focusing on include:
 
-2. **Navigate to the project folder:**
+* Conditional Statements (`if`, `else`, `switch`).
+* Looping Constructs (`for`, `while`, `do-while`).
+* Arrays and Strings.
+* **Functions and Pointers (The next major focus area!)**
 
-   ```bash
-   cd c-learning-project
-   ```
+## Connect with Me
 
-3. **Compile any source file:**
+I am a 1st-year BCA student building my skills in programming. I welcome feedback and suggestions!
 
-   ```bash
-   gcc your_file_name.c -o output_name
-   ```
+* **GitHub Profile:** [@mrarunkumar18](https://github.com/mrarunkumar18)
+* **LinkedIn:** [Arun Kumar](https://www.linkedin.com/in/itzarun1806/)
+* **Instagram:** [@itz\_arun\_1806](https://www.instagram.com/itz_arun_1806/)
+* **X (Twitter):** [@itz\_arun\_1806](https://x.com/itz_arun_1806/)
 
-4. **Run the program:**
-
-   ```bash
-   ./output_name
-   ```
-
----
-
-## 🎯 Learning Roadmap
-
-I’m following a structured path to master C from basics to advanced topics:
-
-* Conditional Statements (`if`, `else`, `switch`)
-* Looping Constructs (`for`, `while`, `do-while`)
-* Arrays and Strings
-* **Functions and Pointers — next major focus area!**
-* File Handling and Memory Management (coming soon)
-
----
-
-## 🤝 Connect With Me
-
-I’m a BCA student passionate about coding and systems programming. Feedback, advice, or collaboration ideas are always welcome!
-
-* **LinkedIn:** https://www.linkedin.com/in/itzarun1806/
----
-
-**Let’s code, debug, and grow — one C program at a time. 💻🔥**
-
----
+***
