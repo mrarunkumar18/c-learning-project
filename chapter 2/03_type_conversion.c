@@ -3,10 +3,11 @@
 int main()
 {
 
-    int a = 5;
+    float a = 9.0;
     int b = 2;
-    float c = 5 / 2;
-    printf("the value of a/b is %f\n", c); // this will print 2.000000 because both a and b are integers so the result will be an integer
+    float c = a / b;
+    int d = 6.7;
+    printf("the value of a/b is %f\n", c); // this will print 4.500000, because a is float
 
     return 0;
 }
